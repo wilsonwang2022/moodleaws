@@ -62,7 +62,7 @@ sudo systemctl status jenkins
 ```
 ### Check Python3 version
 ```
-python3 —version
+python3 --version
 ```
 
 ### If Python3 is not installed
